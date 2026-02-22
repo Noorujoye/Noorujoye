@@ -75,7 +75,7 @@ Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noorainwarsi/">
+<a href="https://www.linkedin.com/in/noorainwarsi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
