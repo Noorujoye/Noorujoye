@@ -1,25 +1,78 @@
-# Hi, I'm Noorain  
-A 5th-semester BTech CSE student and aspiring Full-Stack Java + AI Developer.  
-Preparing for **GSoC 2026**, building strong fundamentals in Java, DSA, Backend, and AI.
+<h1 align="center">Hi 👋, I'm Noor</h1>
+<h3 align="center">Full Stack Java Developer | AI Enthusiast | Problem Solver</h3>
 
-## Skills  
-- **Languages:** Java, C++, Python, JavaScript  
-- **Web Tech:** HTML, CSS, react.js, Bootstrap  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **Tools:** Git, GitHub, Postman, Figma, VS Code, NetBeans, Leading AI tools,   
-- **Learning:** Spring Boot, System Design,
-- **Projects** Creating my Minor project(will reveal soon)
+---
 
-##  Current Focus  
-- Preparing for **Google Summer of Code 2026**  
-- Strengthening DSA  
-- Building real-world projects  
-- Contributing to open-source
-- Research  
+## 🚀 About Me
 
-##  Featured Repositories  
-➡ Coming soon...
+- 🎓 BTech CSE Student (6th Semester)
+- 💻 Currently mastering Java + DSA
+- 🔥 Focused on Backend Engineering (Spring Boot)
+- 🤖 Exploring AI integration in real-world apps
+- 🎯 Target: Big Tech Level Software Engineer
 
-## Connect with me  
-- Email: joyenooru@gmail.com
-- LinkedIn: www.linkedin.com/in/noorainwarsi/
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+Java | C++ | Python | JavaScript
+
+### ⚙ Backend
+Spring Boot | REST APIs | JWT | Microservices | Hibernate
+
+### 🎨 Frontend
+React | HTML | CSS | Tailwind
+
+### 🗄 Database
+MySQL | PostgreSQL
+
+### ☁ DevOps & Tools
+Docker | Git | GitHub Actions | Postman | VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### 🚗 Ride Booking Backend
+Spring Boot based scalable backend system  
+- JWT Authentication  
+- Role-based Access  
+- REST APIs  
+- MySQL Integration  
+
+### 🌱 Farm Assist (AI Integration)
+AI-based plant disease detection system  
+- Image Upload  
+- ML Model Integration  
+- Preventive Suggestions  
+
+### 📚 DSA Java Implementations
+Custom data structures & algorithms implementation  
+- LRU Cache  
+- Multithreading  
+- Graph Algorithms  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noorujoye&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noorujoye&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Goals for 2026
+
+- Contribute to Open Source
+- Build Production Ready Backend Systems
+- Crack Big Tech Interviews
+- Build AI-powered Scalable Applications
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn: (Add link)  
+Portfolio: (Add later)
