@@ -22,13 +22,13 @@ Java | C++ | Python | JavaScript
 Spring Boot | REST APIs | JWT | Microservices | Hibernate
 
 ### 🎨 Frontend
-React | HTML | CSS | Tailwind
+React | HTML | CSS | JavaScript
 
 ### 🗄 Database
 MySQL | PostgreSQL
 
 ### ☁ DevOps & Tools
-Docker | Git | GitHub Actions | Postman | VS Code
+Docker | Git | GitHub Actions | Postman | VS Code | Intellij
 
 ---
 
