@@ -66,3 +66,7 @@ Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems
 - Build Production-Ready Backend Systems
 - Master System Design
 - Integrate AI in scalable applications
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Noorujoye/Noorujoye/blob/output/github-contribution-grid-snake.svg)
