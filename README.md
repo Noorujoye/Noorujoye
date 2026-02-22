@@ -69,4 +69,4 @@ Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Noorujoye/Noorujoye/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Noorujoye/Noorujoye/output/github-contribution-grid-snake.svg)
