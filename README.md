@@ -16,7 +16,6 @@
 - 🎯 Preparing for Big Tech & System Design Interviews
 
 ---
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -70,3 +69,30 @@ Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Noorujoye/Noorujoye/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/noorainwarsi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:joyenooru@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Noorain_Warsi">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<!-- <a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p> -->
+
+---
+## 🔥 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark)
+
