@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE (5th Semester)
+- 🎓 BTech CSE (6th Semester)
 - 💻 Strong in Java, DSA & Backend Development
 - 🔥 Building Scalable Systems using Spring Boot
 - 🤖 Integrating AI into real-world applications
@@ -36,6 +36,10 @@ Docker | Git | GitHub Actions | Postman | VS Code
 ---
 
 ## 🔥 Featured Projects
+
+### Invoice Management System
+
+A platform developed for IMC Indore to manage their invoices and vendors.
 
 ### 🌱 AI Plant Disease Detection
 AI powered image-based disease detection with preventive suggestions.
