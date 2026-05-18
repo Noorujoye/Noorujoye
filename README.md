@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-Java | C++ | JavaScript
+Java | JavaScript | python
 
 ### ⚙ Backend
 Spring Boot | REST APIs | Microservices | JWT | Hibernate
@@ -28,7 +28,7 @@ Spring Boot | REST APIs | Microservices | JWT | Hibernate
 React | HTML | CSS | Tailwind
 
 ### 🗄 Database
-MySQL | PostgreSQL
+MySQL | Oracle
 
 ### ☁ Tools
 Docker | Git | GitHub Actions | Postman | VS Code
@@ -46,6 +46,8 @@ AI powered image-based disease detection with preventive suggestions.
 
 ### 📚 Advanced DSA Implementations
 Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems.
+
+### Java POC
 
 ---
 
