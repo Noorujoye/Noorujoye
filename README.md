@@ -41,9 +41,6 @@ Docker | Git | GitHub Actions | Postman | VS Code
 
 A platform developed for IMC Indore to manage their invoices and vendors.
 
-### 🌱 AI Plant Disease Detection
-AI powered image-based disease detection with preventive suggestions.
-
 ### 📚 Advanced DSA Implementations
 Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems.
 
