@@ -97,5 +97,5 @@ Custom Data Structures, Multithreading, Graph Algorithms & Optimization problems
 
 ---
 ## 🔥 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/noorain_warsi?theme=dark)
 
