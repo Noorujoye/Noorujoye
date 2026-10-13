@@ -91,12 +91,6 @@
 - **Data Integrity & Compliance**: Designed relational schema across 8 entities in PostgreSQL with composite unique constraints, automated GST split calculations (9% CGST + 9% SGST), and immutable audit logs.
 - **Full-Stack Polish**: Delivered 100% bilingual (English/Hindi) localization, mobile-first responsive cards for viewports $\ge 360\text{px}$, transactional Brevo SMTP notifications, and validated 42 QA test scenarios with a 100% pass rate.
 
-#### ⚡ [Advanced Data Structures & Algorithms Suite](https://github.com/Noorujoye)
-> **Algorithmic Problem Solving & System Concurrency | Java**
-
-- Implemented production-grade multi-threaded task schedulers, thread pools, and producer-consumer pipelines using Java `java.util.concurrent`.
-- Optimized complex graph traversal algorithms, custom trie implementations, disjoint-set unions, and dynamic programming patterns.
-
 ---
 
 ### 📊 GitHub & Coding Activity
